@@ -77,6 +77,9 @@ When you want to forcefully reload, for example to reset the state of your app, 
 
 You've successfully run and modified your React Native App. :partying_face:
 # Results
+![Alt Text](result1.jpeg)
+![Alt Text](result2.jpeg)
+![Alt Text](result3.jpeg)
 
 ### Now what?
 
