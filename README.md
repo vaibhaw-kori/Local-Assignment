@@ -76,6 +76,7 @@ When you want to forcefully reload, for example to reset the state of your app, 
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+# Results
 
 ### Now what?
 
